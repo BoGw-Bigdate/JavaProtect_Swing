@@ -63,8 +63,8 @@ public class BookingView extends JFrame implements ActionListener {
 
     }
 
-    public static void main(String[] args) {
-        BookingView bookingView = new BookingView();
-        bookingView.setTitle("订票");
-    }
+//    public static void main(String[] args) {
+//        BookingView bookingView = new BookingView();
+//        bookingView.setTitle("订票");
+//    }
 }
