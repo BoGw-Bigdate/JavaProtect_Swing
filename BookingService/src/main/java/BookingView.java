@@ -50,11 +50,11 @@ public class BookingView extends JFrame implements ActionListener {
 //        label2.setSize(50,25);
 //        label2.setLocation(100,500);
 //        pane.add(label2);
-        pane.add(comboBox);
-        setSize(900,900);
-        setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        setVisible(true);
-        setLocationRelativeTo(null);
+//        pane.add(comboBox);
+//        setSize(900,900);
+//        setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+//        setVisible(true);
+//        setLocationRelativeTo(null);
     }
 
 
